@@ -5,7 +5,7 @@ public class MyLinkedListOperations {
 // Defines the Linked List class. This class represents the entire linked list.
 
     // Node class (building block of Linked List)
-    class Node {
+    static class Node {
         int val;
         // Stores the value/data of the node
 
